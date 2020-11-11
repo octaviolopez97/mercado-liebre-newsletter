@@ -1,0 +1,25 @@
+{
+  "name": "mercado-liebre-newsletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octaviolopez97/mercado-liebre-newsletter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octaviolopez97/mercado-liebre-newsletter/issues"
+  },
+  "homepage": "https://github.com/octaviolopez97/mercado-liebre-newsletter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "i": "^0.3.6"
+  }
+}
